@@ -76,7 +76,7 @@ public class CriadorDeProdutos {
 								+ "aquele que está adquirindo mais experiência na plataforma.");
 
 				livroDeArquitetura
-						.setLinkDaFoto("http://www.arquiteturajava.com.br/img/capa-livro.png");
+						.setLinkDaFoto("https://www.alura.com.br/especial/assets/arquitetura/arquitetura-java.png");
 
 				em.persist(livroDeArquitetura);
 
