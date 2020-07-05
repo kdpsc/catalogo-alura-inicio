@@ -7,4 +7,4 @@ hooks:
   - location: /scripts/reinicia-servidor.sh
 files:
   - source: target/alura-aws
-    destination: /var/lib/tomcat8/webapps/loja
+    destination: /var/lib/tomcat8/webapps/alura-aws
