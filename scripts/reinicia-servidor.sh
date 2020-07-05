@@ -1,2 +1,3 @@
-service tomcat8 stop
-service tomcat8 start
+#!/bin/bash
+
+sudo service tomcat8 restart
